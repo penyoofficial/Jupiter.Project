@@ -11,15 +11,16 @@
 当前已开设的项目可查下表：
 |起笔时间|项目名称|项目类别|编撰状态|
 |-|-|-|-|
-|2022 Q1|[Java The Language](Java.JPI.pdf)<br>*Java（语言）*|专业类|<mark style="background-color: #3EAF7C;">完结</mark>|
-|2022 Q2|[Java Web Development](Java.Web.Dev.JPI.pdf)<br>*Java网络开发*|专业类|<mark style="background-color: #CC0000;">停滞</mark>|
-|2022 Q3|[Data Structure And Algorithms](Data.Structure.And.Algorithms.JPI.pdf)<br>*数据结构与算法*|专业类|==进行中==|
-|2022 Q3|[Circuit And Digital System](Circuit.And.Digital.System.JPI.pdf)<br>*电路与数字系统*|通识类|==进行中==|
-|2022 Q4|[Computer Network Technology](Computer.Network.Technology.JPI.pdf)<br>*计算机网络技术*|专业类|==进行中==|
-|2022 Q4|[HTML And CSS The Language](HTML.And.CSS.JPI.pdf)<br>*HTML与CSS（语言）*|专业类|==进行中==|
-|-|[JavaScript And TypeScript The Language](JavaScript.JPI.pdf)<br>*JavaScript与TypeScript（语言）*|专业类|<mark style="background-color: #FF8000;">筹备中</mark>|
-|-|[Vue The Framework](Vue.JPI.pdf)<br>*Vue（框架）*|专业类|<mark style="background-color: #FF8000;">筹备中</mark>|
-|-|[Database Design And Management](Database.Design.And.Management.JPI.pdf)<br>*数据库设计与管理*|专业类|<mark style="background-color: #FF8000;">筹备中</mark>|
-|-|[Modern Development](Modern.Development.JPI.pdf)<br>*现代开发*|专业类|<mark style="background-color: #FF8000;">筹备中</mark>|
-|-|[SpringCloud And SpringBoot The Framework](SpringCloud.And.SpringBoot.The.Framework.JPI.pdf)<br>*SpringCloud与SpringBoot（框架）*|专业类|<mark style="background-color: #FF8000;">筹备中</mark>|
-|-|[Engineering Math](Engineering.Math.JPI.pdf)<br>*工程数学*|通识类|<mark style="background-color: #FF8000;">筹备中</mark>|
+|2022 Q1|[Java The Language](Java（语言）/Java.JPI.pdf)<br>*Java（语言）*|专业类|<mark style="background-color: #3EAF7C;">完结</mark>|
+|2022 Q2|[Java Web Development](Java网络开发/Java.Web.Dev.JPI.pdf)<br>*Java网络开发*|专业类|<mark style="background-color: #CC0000;">停滞</mark>|
+|2022 Q3|[Data Structure And Algorithms](数据结构与算法/Data.Structure.And.Algorithms.JPI.pdf)<br>*数据结构与算法*|专业类|<mark>进行中</mark>|
+|2022 Q3|[Circuit And Digital System](电路与数字系统/Circuit.And.Digital.System.JPI.pdf)<br>*电路与数字系统*|通识类| <mark>进行中</mark>                                    |
+|2022 Q4|[Computer Network Technology](计算机网络技术/Computer.Network.Technology.JPI.pdf)<br>*计算机网络技术*|专业类|<mark>进行中</mark>|
+|2022 Q4|[HTML And CSS The Language](HTML与CSS（语言）/HTML.And.CSS.JPI.pdf)<br>*HTML与CSS（语言）*|专业类|<mark>进行中</mark>|
+|-|[JavaScript And TypeScript The Language](JavaScript与TypeScript（语言）/JavaScript.And.TypeScript.JPI.pdf)<br>*JavaScript与TypeScript（语言）*|专业类|<mark style="background-color: #FF8000;">筹备中</mark>|
+|-|[Vue The Framework](Vue（框架）/Vue.JPI.pdf)<br>*Vue（框架）*|专业类|<mark style="background-color: #FF8000;">筹备中</mark>|
+|-|[Database Design And Management](数据库设计与管理/Database.Design.And.Management.JPI.pdf)<br>*数据库设计与管理*|专业类|<mark style="background-color: #FF8000;">筹备中</mark>|
+|-|[Modern Development](现代开发/Modern.Development.JPI.pdf)<br>*现代开发*|专业类|<mark style="background-color: #FF8000;">筹备中</mark>|
+|-|[SpringCloud And SpringBoot The Framework](SpringCloud与SpringBoot（框架）/SpringCloud.And.SpringBoot.The.Framework.JPI.pdf)<br>*SpringCloud与SpringBoot（框架）*|专业类|<mark style="background-color: #FF8000;">筹备中</mark>|
+|-|[Engineering Math](工程数学/Engineering.Math.JPI.pdf)<br>*工程数学*|通识类|<mark style="background-color: #FF8000;">筹备中</mark>|
+|-|[C#](C#（语言/CSharp.JPI.md）)<br>*C#（语言）*|专业类|<mark style="background-color: #FF8000;">筹备中</mark>|
