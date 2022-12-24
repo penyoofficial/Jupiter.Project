@@ -11,16 +11,16 @@
 当前已开设的项目可查下表：
 |起笔时间|项目名称|项目类别|编撰状态|
 |-|-|-|-|
-|2022 Q1|[Java The Language](https://github.com/penyoofficial/Jupiter.Project/blob/main/Java（语言）/Java.JPI.pdf)<br>*Java（语言）*|专业类|<mark style="background-color: #3EAF7C;">完结</mark>|
-|2022 Q2|[Java Web Development](https://github.com/penyoofficial/Jupiter.Project/blob/main/Java网络开发/Java.Web.Dev.JPI.pdf)<br>*Java网络开发*|专业类|<mark style="background-color: #CC0000;">停滞</mark>|
-|2022 Q3|[Data Structure And Algorithms](https://github.com/penyoofficial/Jupiter.Project/blob/main/数据结构与算法/Data.Structure.And.Algorithms.JPI.pdf)<br>*数据结构与算法*|专业类|<mark>进行中</mark>|
-|2022 Q3|[Circuit And Digital System](https://github.com/penyoofficial/Jupiter.Project/blob/main/电路与数字系统/Circuit.And.Digital.System.JPI.pdf)<br>*电路与数字系统*|通识类| <mark>进行中</mark>                                    |
-|2022 Q4|[Computer Network Technology](https://github.com/penyoofficial/Jupiter.Project/blob/main/计算机网络技术/Computer.Network.Technology.JPI.pdf)<br>*计算机网络技术*|专业类|<mark>进行中</mark>|
-|2022 Q4|[HTML And CSS The Language](https://github.com/penyoofficial/Jupiter.Project/blob/main/HTML与CSS（语言）/HTML.And.CSS.JPI.pdf)<br>*HTML与CSS（语言）*|专业类|<mark>进行中</mark>|
-|-|[JavaScript And TypeScript The Language](https://github.com/penyoofficial/Jupiter.Project/blob/main/JavaScript与TypeScript（语言）/JavaScript.And.TypeScript.JPI.pdf)<br>*JavaScript与TypeScript（语言）*|专业类|<mark style="background-color: #FF8000;">筹备中</mark>|
-|-|[Vue The Framework](https://github.com/penyoofficial/Jupiter.Project/blob/main/Vue（框架）/Vue.JPI.pdf)<br>*Vue（框架）*|专业类|<mark style="background-color: #FF8000;">筹备中</mark>|
-|-|[Database Design And Management](https://github.com/penyoofficial/Jupiter.Project/blob/main/数据库设计与管理/Database.Design.And.Management.JPI.pdf)<br>*数据库设计与管理*|专业类|<mark style="background-color: #FF8000;">筹备中</mark>|
-|-|[Modern Development](https://github.com/penyoofficial/Jupiter.Project/blob/main/现代开发/Modern.Development.JPI.pdf)<br>*现代开发*|专业类|<mark style="background-color: #FF8000;">筹备中</mark>|
-|-|[SpringCloud And SpringBoot The Framework](https://github.com/penyoofficial/Jupiter.Project/blob/main/SpringCloud与SpringBoot（框架）/SpringCloud.And.SpringBoot.The.Framework.JPI.pdf)<br>*SpringCloud与SpringBoot（框架）*|专业类|<mark style="background-color: #FF8000;">筹备中</mark>|
-|-|[Engineering Math](https://github.com/penyoofficial/Jupiter.Project/blob/main/工程数学/Engineering.Math.JPI.pdf)<br>*工程数学*|通识类|<mark style="background-color: #FF8000;">筹备中</mark>|
+|2022 Q1|[Java The Language](https://github.com/penyoofficial/Jupiter.Project/blob/main/Java（语言）/Java.JPI.md)<br>*Java（语言）*|专业类|<mark style="background-color: #3EAF7C;">完结</mark>|
+|2022 Q2|[Java Web Development](https://github.com/penyoofficial/Jupiter.Project/blob/main/Java网络开发/Java.Web.Dev.JPI.md)<br>*Java网络开发*|专业类|<mark style="background-color: #CC0000;">停滞</mark>|
+|2022 Q3|[Data Structure And Algorithms](https://github.com/penyoofficial/Jupiter.Project/blob/main/数据结构与算法/Data.Structure.And.Algorithms.JPI.md)<br>*数据结构与算法*|专业类|<mark>进行中</mark>|
+|2022 Q3|[Circuit And Digital System](https://github.com/penyoofficial/Jupiter.Project/blob/main/电路与数字系统/Circuit.And.Digital.System.JPI.md)<br>*电路与数字系统*|通识类| <mark>进行中</mark>                                    |
+|2022 Q4|[Computer Network Technology](https://github.com/penyoofficial/Jupiter.Project/blob/main/计算机网络技术/Computer.Network.Technology.JPI.md)<br>*计算机网络技术*|专业类|<mark>进行中</mark>|
+|2022 Q4|[HTML And CSS The Language](https://github.com/penyoofficial/Jupiter.Project/blob/main/HTML与CSS（语言）/HTML.And.CSS.JPI.md)<br>*HTML与CSS（语言）*|专业类|<mark>进行中</mark>|
+|-|[JavaScript And TypeScript The Language](https://github.com/penyoofficial/Jupiter.Project/blob/main/JavaScript与TypeScript（语言）/JavaScript.And.TypeScript.JPI.md)<br>*JavaScript与TypeScript（语言）*|专业类|<mark style="background-color: #FF8000;">筹备中</mark>|
+|-|[Vue The Framework](https://github.com/penyoofficial/Jupiter.Project/blob/main/Vue（框架）/Vue.JPI.md)<br>*Vue（框架）*|专业类|<mark style="background-color: #FF8000;">筹备中</mark>|
+|-|[Database Design And Management](https://github.com/penyoofficial/Jupiter.Project/blob/main/数据库设计与管理/Database.Design.And.Management.JPI.md)<br>*数据库设计与管理*|专业类|<mark style="background-color: #FF8000;">筹备中</mark>|
+|-|[Modern Development](https://github.com/penyoofficial/Jupiter.Project/blob/main/现代开发/Modern.Development.JPI.md)<br>*现代开发*|专业类|<mark style="background-color: #FF8000;">筹备中</mark>|
+|-|[SpringCloud And SpringBoot The Framework](https://github.com/penyoofficial/Jupiter.Project/blob/main/SpringCloud与SpringBoot（框架）/SpringCloud.And.SpringBoot.The.Framework.JPI.md)<br>*SpringCloud与SpringBoot（框架）*|专业类|<mark style="background-color: #FF8000;">筹备中</mark>|
+|-|[Engineering Math](https://github.com/penyoofficial/Jupiter.Project/blob/main/工程数学/Engineering.Math.JPI.md)<br>*工程数学*|通识类|<mark style="background-color: #FF8000;">筹备中</mark>|
 |-|[C# The Language](https://github.com/penyoofficial/Jupiter.Project/blob/main/C#（语言/CSharp.JPI.md）)<br>*C#（语言）*|专业类|<mark style="background-color: #FF8000;">筹备中</mark>|
